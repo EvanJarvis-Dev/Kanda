@@ -665,7 +665,7 @@ class Guide(Menu):
         self.title_rect.center = (WINDOW_WIDTH//2, 40)
         self.text_to_draw.append([self.title_text, self.title_rect])
 
-        arrow_image = pygame.image.load("arrow_right.png")
+        arrow_image = pygame.image.load("assets/images/arrow_right.png")
         arrow_image_width = arrow_image.get_width()
         arrow_image_height = arrow_image.get_height()
 
@@ -693,7 +693,7 @@ class Guide(Menu):
         self.guide_images = []
         self.guide_rects = []
         for i in range(1, 9):
-            temp_image = pygame.image.load("guide{}.png".format(i))
+            temp_image = pygame.image.load("assets/images/guide{}.png".format(i))
 
             self.guide_images.append(pygame.transform.smoothscale(temp_image, (600, 320)))
 
