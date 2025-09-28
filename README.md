@@ -29,7 +29,7 @@ Hitting all of the orange pegs clears a stage but the challenge comes when you o
 ## Installation
 **Option 1: Play instantly**
 - [Download the game on Itch.io](https://rosenrgd.itch.io/kanda)
-- 
+
 **Option 2: Run locally**
 1. Clone this repository  
 2. Install pygame
