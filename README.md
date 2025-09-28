@@ -25,14 +25,19 @@ Hitting all of the orange pegs clears a stage but the challenge comes when you o
 - Left-click to shoot
 
 ## Installation
-- Either [download the game on Itch.io](https://rosenrgd.itch.io/kanda)
-- Or clone this repository and install python and pygame, then run the Kanda.py file
+**Option 1: Play instantly**
+- [Download the game on Itch.io](https://rosenrgd.itch.io/kanda)
+**Option 2: Run locally**
+1. Clone this repository  
+2. Install pygame
+3. Run the Kanda.py file
 
 ## Built With
-- Python
-- Pygame
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-14354C?logo=python&logoColor=white)
 
 ## Credits
+- Game design and programming by Evan Jarvis
 - All tracks can be found [here](https://www.void1gaming.com/platformer-music-pack-lite)
 - Tracks used are:
   - Menu Music: Sunset by the Lake
