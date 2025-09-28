@@ -1,4 +1,7 @@
 # Kanda
+*A Peggle-inspired game built with Python and Pygame*
+
+![Gameplay Demo](assets/KandaGameplay.gif)
 
 Kanda is a peggle-inspired game where you use the mouse to aim and shoot a cannon at various pegs. 
 Hitting all of the orange pegs clears a stage but you only get a limited amount of balls to shoot.
