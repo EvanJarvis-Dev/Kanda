@@ -8,6 +8,9 @@ A short arcade-style puzzle game built as part of my coursework, featuring multi
 Kanda is a peggle-inspired game where you use the mouse to aim and shoot a cannon at various pegs.
 Hitting all of the orange pegs clears a stage but the challenge comes when you only have a limited amount of balls to shoot.
 
+[Demo Video](https://www.youtube.com/watch?v=CzNTPqsLNLI)
+[Full Playthrough Video](https://www.youtube.com/watch?v=vwQNdqV7tqk)
+
 ## Features
 - Mouse-controlled aiming and shooting
 - There are three stages
