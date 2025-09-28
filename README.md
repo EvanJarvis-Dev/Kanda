@@ -25,7 +25,7 @@ Hitting all of the orange pegs clears a stage but the challenge comes when you o
 - Left-click to shoot
 
 ## Installation
-- Either download the game from here [Download on Itch.io](https://rosenrgd.itch.io/kanda)
+- Either [Download The Game on Itch.io](https://rosenrgd.itch.io/kanda)
 - Or clone this repository and install python and pygame, then run the Kanda.py file
 
 ## Built With
