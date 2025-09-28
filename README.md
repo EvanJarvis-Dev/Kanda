@@ -29,14 +29,15 @@ Hitting all of the orange pegs clears a stage but the challenge comes when you o
 ## Installation
 **Option 1: Play instantly**
 - [Download the game on Itch.io](https://rosenrgd.itch.io/kanda)
+- 
 **Option 2: Run locally**
 1. Clone this repository  
 2. Install pygame
 3. Run the Kanda.py file
 
 ## Built With
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-14354C?logo=python&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- ![Pygame](https://img.shields.io/badge/Pygame-14354C?logo=python&logoColor=white)
 
 ## Credits
 - Game design and programming by Evan Jarvis
