@@ -40,8 +40,8 @@ Hitting all of the orange pegs clears a stage but the challenge comes when you o
 3. Run the Kanda.py file
 
 ## Built With
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-- ![Pygame](https://img.shields.io/badge/Pygame-14354C?logo=python&logoColor=white)
+- Python
+- Pygame
 
 ## Credits
 - Game design and programming by Evan Jarvis
