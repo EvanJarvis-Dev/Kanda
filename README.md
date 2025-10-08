@@ -1,7 +1,7 @@
 # Kanda
 *A Peggle-inspired game built with Python and Pygame*
 
-A short arcade-style puzzle game built as part of my coursework, featuring multiple levels, user profiles, and a local leaderboard.
+A short arcade-style puzzle game built as part of my sixth-form coursework in 2023, featuring multiple levels, user profiles, and a local leaderboard.
 
 ![Gameplay Demo](assets/other/KandaGameplay.gif)
 
